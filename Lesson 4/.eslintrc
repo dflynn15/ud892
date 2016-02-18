@@ -2,7 +2,7 @@
     "rules": {
         "indent": [
             2,
-            "tab"
+            "space"
         ],
         "quotes": [
             2,
